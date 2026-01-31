@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 import os
 
-BOT_TOKEN = os.getenv("8547575945:AAEklJWLQ8Hml-dzGXY4_ObMEpnYFKyQ9-0")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_ID = int(os.getenv("ADMIN_ID"))
 
 # Store channel IDs (string format)
